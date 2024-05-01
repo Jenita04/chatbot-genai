@@ -2,17 +2,17 @@
 Chat-Bot with API Integration, Gradio, and Frontend: 
 This repository contains the code for a chat-bot built using API integration, Gradio for simple and customizable interfaces, and frontend technologies like HTML, CSS, JavaScript, and Bootstrap for an enhanced user experience.
 
-Features:
+**Features**:
 API Integration: Utilizes API keys to interact with external services, enhancing the bot's functionality and providing access to various data sources.
 Gradio Integration: Incorporates Gradio for creating intuitive user interfaces, enabling easy interaction with the chat-bot through customizable input fields and visualizations.
 Frontend Development: Implements HTML, CSS, JavaScript, and Bootstrap to design a visually appealing and responsive frontend for the chat-bot, ensuring a seamless user experience across devices.
 
-Technologies Used:
+**Technologies Used**:
 Backend: Python (for API integration and chat-bot logic)
 Frontend: HTML, CSS, JavaScript, Bootstrap
 Libraries/Frameworks: Gradio
 
-Usage:
+**Usage**:
 1. Clone the repository
 2. Open in Visual Studio Code
    - Open Visual Studio Code.
@@ -23,7 +23,7 @@ Usage:
 4. Access the chat-bot interface:
    - Open your web browser and navigate to the provided URL.
 
-Contributing:
+**Contributing**:
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 1.Fork the repository.
 2.Create your feature branch: git checkout -b feature/new-feature
@@ -31,5 +31,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4.Push to the branch: git push origin feature/new-feature
 5.Submit a pull request.
 
-Disclaimer:
+**Disclaimer**:
 Please ensure to use valid API keys and comply with the terms of service of any external services used in this project.
